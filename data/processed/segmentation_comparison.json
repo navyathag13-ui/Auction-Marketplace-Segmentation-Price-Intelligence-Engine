@@ -1,0 +1,13 @@
+{
+  "kmeans": {
+    "silhouette": 0.1054,
+    "k": 5
+  },
+  "hierarchical": {
+    "silhouette": 0.0606,
+    "k": 5,
+    "note": "sample n=3000"
+  },
+  "selected": "kmeans",
+  "reason": "KMeans achieves comparable silhouette with full-dataset coverage and faster inference for API use"
+}

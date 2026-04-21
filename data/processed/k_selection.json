@@ -1,0 +1,30 @@
+{
+  "2": {
+    "silhouette": 0.2095,
+    "inertia": 181484.31
+  },
+  "3": {
+    "silhouette": 0.1175,
+    "inertia": 167829.64
+  },
+  "4": {
+    "silhouette": 0.1066,
+    "inertia": 160071.05
+  },
+  "5": {
+    "silhouette": 0.1054,
+    "inertia": 154644.36
+  },
+  "6": {
+    "silhouette": 0.0895,
+    "inertia": 150076.81
+  },
+  "7": {
+    "silhouette": 0.0877,
+    "inertia": 145929.7
+  },
+  "8": {
+    "silhouette": 0.0857,
+    "inertia": 142452.6
+  }
+}

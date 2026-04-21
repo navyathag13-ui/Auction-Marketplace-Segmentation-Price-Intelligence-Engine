@@ -1,0 +1,6 @@
+segment_kmeans,asking_price_mean,asking_price_median,age_years_mean,age_years_median,hours_used_mean,hours_used_median,total_engagement_mean,total_engagement_median,bid_rate_mean,bid_rate_median,inquiry_rate_mean,inquiry_rate_median,condition_score_mean,condition_score_median,seller_sold_rate_mean,seller_sold_rate_median,price_vs_cat_median_mean,price_vs_cat_median_median,days_on_market_mean,days_on_market_median,sold_mean,sold_median,listing_count,segment_name
+0,11268.766,9600.0,16.736,17.0,5574.314,5493.0,21.022,21.0,0.105,0.091,0.07,0.059,1.602,2.0,0.409,0.412,0.982,0.881,55.087,31.0,0.412,0.0,1853,Premium High-Demand
+1,10755.445,9400.0,17.126,17.0,5692.159,5566.0,35.558,33.0,0.149,0.143,0.087,0.08,1.63,2.0,0.418,0.417,0.951,0.87,52.208,30.0,0.448,0.0,3577,Aging Low-Engagement
+2,49810.502,42900.0,3.657,4.0,4401.59,4330.0,24.291,23.0,0.114,0.105,0.07,0.059,1.766,2.0,0.412,0.414,4.064,3.958,52.096,30.0,0.418,0.0,3451,Value Fleet Inventory
+3,14788.328,12100.0,11.131,10.0,2925.911,2992.0,22.574,22.0,0.109,0.1,0.07,0.059,1.501,2.0,0.409,0.412,1.469,1.167,54.63,32.0,0.388,0.0,1859,Hot Fast-Moving Deals
+4,10876.337,9600.0,17.594,18.0,5811.638,5652.0,16.248,17.0,0.085,0.071,0.061,0.056,1.675,2.0,0.414,0.417,0.943,0.881,55.647,33.0,0.392,0.0,4260,Niche Specialty Equipment
