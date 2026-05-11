@@ -388,4 +388,19 @@ LightGBM delivers **+38 percentage point accuracy gain** over the baseline.
 - [ ] CI/CD pipeline with GitHub Actions
 - [ ] Price recommendation endpoint (suggest optimal listing price for new equipment)
 
+
 ---
+
+## Tech Stack
+
+| Component | Technology |
+|---|---|
+| Data Processing | pandas, numpy, scikit-learn |
+| Segmentation | scikit-learn KMeans, AgglomerativeClustering |
+| Prediction | LightGBM, XGBoost, scikit-learn |
+| Visualization | matplotlib, seaborn, plotly |
+| API | FastAPI, Pydantic, uvicorn |
+| Database | SQLite, SQLAlchemy ORM |
+| Containers | Docker, docker-compose |
+| Testing | pytest (41 tests) |
+| Notebooks | Jupyter |
